@@ -1,0 +1,49 @@
+.navbar-custom{
+		position:absolute;
+		top:0;
+		width:100%;
+		background-color:#3e474f;;
+}
+.navbar a{
+	color:white;
+	font-weight:bold;
+}
+.navbar li a:hover{
+	background:black;
+}
+header{
+	height:450px;
+}
+
+header h1{
+	font-size:50px;
+	text-shadow:3px 3px 2px black;
+}
+header p{
+	font-size:20px;
+	text-shadow:3px 3px 2px black;
+}
+.block-a{
+	font-size:20px;
+	margin:20px 0px;
+	border-top:1px solid gray;	
+	padding: 5px 0;
+}
+.block-b{
+	font-size:20px;	
+	border-bottom:1px solid gray;
+	padding: 5px 0;
+	background: #f1f1f1;
+}
+.footer{
+	margin:10px 0 0 0;
+	width:100%;
+	padding:20px 0; 
+	background:#3e474f;;
+	color:white;	
+}
+.about_para{
+	font-size:18px;
+	line-height:30px;
+	padding:0px 5px;
+}
